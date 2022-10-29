@@ -1,4 +1,4 @@
-7660
+7652
 93D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\reporter-cli\src\bundleReport.js133111597337135355 0
 61D:\Code in VS Code\Udemy\JS\Forkify App\src\sass\_header.scss132886955210000000 0
 92D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\electron-to-chromium\full-versions.json133111597372001536 0
@@ -35,7 +35,7 @@
 81D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\type-fest\source\except.d.ts133111597378917567 0
 60D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\timsort133111597363576436 1
 81D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\electron-to-chromium\LICENSE133111597296440999 0
-44D:\Code in VS Code\Udemy\JS\Forkify App\dist133114927052403764 1
+44D:\Code in VS Code\Udemy\JS\Forkify App\dist133114926931111283 1
 98D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\dom-token-list-prototype.js133111597519566853 0
 68D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\tslib\README.md133111597365375344 0
 47D:\Code in VS Code\Udemy\JS\Forkify App\src\img133107343821718688 1
@@ -2845,7 +2845,6 @@
 97D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\form-attribute.js133111597512121127 0
 94D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\object-keys-internal.js133111597607778338 0
 66D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\htmlnano\docs133111597445109581 1
-62D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.e37f48ea.js133114927052203870 0
 70D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\htmlnano\index.js133111597375669426 0
 99D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\modules\es.typed-array.reduce-right.js133111597544172732 0
 65D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\htmlnano\lib133111597374160291 1
@@ -3270,7 +3269,6 @@
 82D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\csso\lib\replace\Dimension.js133111597405362387 0
 78D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\csso\lib\replace\index.js133111597411868650 0
 79D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\csso\lib\replace\Number.js133111597414657065 0
-63D:\Code in VS Code\Udemy\JS\Forkify App\dist\icons.21bad73c.svg133114927051984006 0
 84D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\core\lib\Environment.js133111597440312335 0
 87D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\wasm.js133111597546721274 0
 89D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\actual\array\virtual\fill.js133111597555236387 0
@@ -4604,7 +4602,6 @@
 89D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\create-property.js133111597512610848 0
 89D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@swc\helpers\lib\_to_property_key.js133111597449497071 0
 92D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\date-to-iso-string.js133111597513180514 0
-67D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.f7626f62.css.map133114927052373781 0
 71D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\color-name\LICENSE133111597339653914 0
 91D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\date-to-primitive.js133111597513210504 0
 92D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\actual\typed-array\find-last.js133111597560033636 0
@@ -4768,7 +4765,7 @@
 100D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\core\test\fixtures\main-format-mismatch133111597495690555 1
 90D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\try-node-require.js133111597630918741 0
 87D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\try-to-string.js133111597630938727 0
-55D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.html133114927051984006 0
+55D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.html133114926930731510 0
 80D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\es\array\entries.js133111597524484043 0
 115D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\typed-array-constructors-require-wrappers.js133111597631048676 0
 105D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\core-js\internals\typed-array-species-constructor.js133111597631128618 0
@@ -6597,7 +6594,6 @@
 93D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\css-resize.js133111597498269070 0
 99D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\css-revert-value.js133111597498319044 0
 95D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133111597498399003 0
-65D:\Code in VS Code\Udemy\JS\Forkify App\dist\favicon.8b2f57bf.png133114927052223883 0
 106D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@babel\highlight\node_modules\color-name\package.json133111597332434357 0
 102D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133111597498468959 0
 106D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133111597282810749 0
@@ -6997,7 +6993,6 @@
 98D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133111597380186836 0
 75D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\config-default133111597355900777 1
 64D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\css133111597354491584 1
-66D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.e37f48ea.js.map133114927052383776 0
 67D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events133111597377198561 1
 63D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\fs133111597385203954 1
 65D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\hash133111597421663031 1
@@ -7444,7 +7439,6 @@
 71D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events\lib133111597371811642 1
 71D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events\src133111597373980396 1
 81D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events\src\errors.js133111597361657470 0
-62D:\Code in VS Code\Udemy\JS\Forkify App\dist\logo.726d37a8.png133114927052243862 0
 85D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events\lib\Disposable.js133111597337275269 0
 80D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\events\lib\types.js133111597368493545 0
 93D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\@parcel\diagnostic\test\markdown.test.js133111597355790833 0
@@ -7656,6 +7650,4 @@
 68D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\.bin\semver.ps1133111597636265664 0
 68D:\Code in VS Code\Udemy\JS\Forkify App\node_modules\.bin\terser.cmd133111597636435571 0
 65D:\Code in VS Code\Udemy\JS\Forkify App\dist\favicon.76dd299c.png133114926927563326 0
-63D:\Code in VS Code\Udemy\JS\Forkify App\dist\icons.dfd7a6db.svg133114927051984006 0
 63D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.987de634.css133114926930741498 0
-63D:\Code in VS Code\Udemy\JS\Forkify App\dist\index.f7626f62.css133114927051984006 0
